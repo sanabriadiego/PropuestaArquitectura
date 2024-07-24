@@ -1,0 +1,11 @@
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\bin\Debug\net8.0\PA.Dominio.deps.json
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\bin\Debug\net8.0\PA.Dominio.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\bin\Debug\net8.0\PA.Dominio.pdb
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.AssemblyInfoInputs.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.AssemblyInfo.cs
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\refint\PA.Dominio.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\PA.Dominio.pdb
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Dominio\obj\Debug\net8.0\ref\PA.Dominio.dll

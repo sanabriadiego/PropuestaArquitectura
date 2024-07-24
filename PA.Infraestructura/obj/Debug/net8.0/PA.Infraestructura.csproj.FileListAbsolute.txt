@@ -1,0 +1,17 @@
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.AssemblyInfo.cs
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Infraestructura.deps.json
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Infraestructura.runtimeconfig.json
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Infraestructura.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Infraestructura.pdb
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Dominio.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\bin\Debug\net8.0\PA.Dominio.pdb
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infra.0AAE4D20.Up2Date
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\refint\PA.Infraestructura.dll
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.pdb
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\PA.Infraestructura.genruntimeconfig.cache
+C:\Users\soporte\Documents\prop\PropuestaArquitectura\PA.Infraestructura\obj\Debug\net8.0\ref\PA.Infraestructura.dll
